@@ -1,4 +1,4 @@
-# Resistor_detection_using_colorband_python
+# Resistor Detection using Colorband_python
 This is a simple Python project a command-line tool designed to simplify the interpretation and calculation of resistor color codes, making it easy to convert between resistance values (in ohms) and standard color band representations. Supporting both directions, it allows users to either input a numeric resistance value to get the corresponding 3-band color code, or to enter three color bands and instantly obtain the resistor’s value in ohms. The tool follows the standard resistor color coding system as used in electronics worldwide (refer image below) and provides a practical utility for Electrical or Electronics engineers working with discrete components.
 # Color Band For Reference
 <img width="300" height="489" alt="image" src="https://github.com/user-attachments/assets/5c7dc45a-96e5-4408-8252-e2a134d4929b" />
